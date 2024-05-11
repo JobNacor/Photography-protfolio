@@ -1,13 +1,14 @@
-1.instalar los requisitos del projecto: pip install -r requirements.txt
-2.iniciar el env: env\Scripts\activate
-3.cd frontend
-4.npm install
-5.iniciar el env: env\Scripts\activate
-6.iniciar el projecto:npm run dev
+#Clear instructions:
+1.Install project requirements: pip install -r requirements.txt
+2.Activate the environment: env\Scripts\activate
+3.Navigate to the frontend directory: cd frontend
+4.Install npm packages: npm install
+5.Activate the environment: env\Scripts\activate
+6.Start the project: npm run dev
 
-otros comandos
-para instalar boostrap: npm install react-bootstrap bootstrap
-para instalar react mas vite:npm create vite@lastest frontend -- --template react
+#Other commands (Extra):
+1.Install Bootstrap: npm install react-bootstrap bootstrap
+2.Install React with Vite: npm create vite@latest frontend -- --template react
 
 
 
